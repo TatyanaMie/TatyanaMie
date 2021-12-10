@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning Java and Generation Bootcamp student
+- 🔭 Generation Bootcamp student
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: ela/dela/she
 
 <div align="center">
