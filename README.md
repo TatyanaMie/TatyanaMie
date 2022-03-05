@@ -10,7 +10,8 @@
 </div>
   
   </div>
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+ <img align="center" alt="Taty-Js" height="40" width="40" src="https://i.imgur.com/FK17O5h.png" />
+ <img align="center" alt="Taty-Ts" height="40" width="40"  src="https://i.imgur.com/SyA7QIn.png"/>
   </div>
   
   ##
