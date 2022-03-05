@@ -9,9 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatyanaMie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
+  <br>
   </div>
- <img align="center" alt="Taty-Js" height="40" width="40" src="https://i.imgur.com/FK17O5h.png" />
- <img align="center" alt="Taty-Ts" height="40" width="40"  src="https://i.imgur.com/SyA7QIn.png"/>
+ <img align="center" alt="Taty-Js" height="50" width="50" src="https://i.imgur.com/llceDiR.png" />
+ <img align="center" alt="Taty-Html" height="56" width="56"  src="https://i.imgur.com/NbkXRte.png"/>
+ <img align="center" alt="Taty-Css" height="56" width="56" src="https://i.imgur.com/haspA1E.png" />
+ <img align="center" alt="Taty-Ts" height="50" width="50" src="https://i.imgur.com/bYxvnVZ.png" />
   </div>
   
   ##
